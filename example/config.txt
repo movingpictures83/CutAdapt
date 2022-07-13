@@ -1,0 +1,2 @@
+Prefix plugins/CutAdapt/example
+Plugin CutAdapt inputfile parameters.txt outputfile S12_R1.trimmed.fastq

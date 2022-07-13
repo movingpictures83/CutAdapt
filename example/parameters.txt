@@ -1,0 +1,2 @@
+fastqfile	S12_R1.fastq
+adapter	CNCCACTCT
